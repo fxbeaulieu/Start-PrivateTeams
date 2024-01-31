@@ -1,0 +1,1 @@
+&'C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe' --new-window --app=https://teams.microsoft.com --inprivate --msEdgeDeleteBrowsingDataOnExit
